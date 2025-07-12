@@ -1,3 +1,3 @@
 # belajar-kolaborasi-cil
-Belajar GitHub awal 1 tes
+Belajar GitHub awal 1
 
